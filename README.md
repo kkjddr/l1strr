@@ -22,7 +22,6 @@
  <img src="https://media1.tenor.com/m/z24hP_LfAokAAAAd/zeno-remake-tsugino-haru.gif" width="130"/>
  <img src="https://media1.tenor.com/m/8NwO-Hg5xpUAAAAC/basil-omori.gif" width="144"/>
  <img src="https://media.tenor.com/n3jBulQCf4IAAAAi/yttd-joe-tazuna-yttd-balling.gif" width="148"/>
-<img src="https://media1.tenor.com/m/TSA64HAWtoIAAAAd/brawl-stars-piper.gif" width="168"/>
 <img src="https://media1.tenor.com/m/ji25dvmZit4AAAAC/yuri.gif" width="139"/>
 </div>
 

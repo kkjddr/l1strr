@@ -84,8 +84,3 @@
 <div id="header" align="center">
 <img src="https://external-media.spacehey.net/media/sqQpDOhl6_bwDCCxdnVYYHOOkqIKNHS4TyT-_rMrWNs4=/https://pixelsafari.neocities.org/dividers/hangingstars.gif" width="500"/> 
 </div>
- _________________________________________________________________________________________________________________________________________________
-
-
-
-

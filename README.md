@@ -13,7 +13,6 @@
  <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(321).gif" width="90"/> 
  <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(3954).png" width="90"/> 
  <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(4362).gif" width="90"/> 
-<img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(6066).png" width="90"/> 
  <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(6214).png" width="90"/> 
  <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(625).png" width="90"/> 
  <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(692).gif" width="90"/> 

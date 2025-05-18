@@ -18,11 +18,11 @@
  <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(692).gif" width="90"/> 
  <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(717).gif" width="90"/> 
  <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(747).png" width="90"/> 
- <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(774).gif" width="90"/> 
+ <img src="https://64.media.tumblr.com/c50bdf29db30a11b145ffa82f191ed31/3c74d06b377fdc9b-b2/s250x250_c1/275a1a2dedec62bb9c279192c34cebadf7f33c61.pnj" width="90"/> 
  <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(903).png" width="90"/> 
  <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(979).png" width="90"/> 
  <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(997).gif" width="90"/> 
-<img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(304).gif" width="90"/> 
+<img src="https://64.media.tumblr.com/503e0fb57f774c1b686b094c3ca949df/3c7512c789785a26-9b/s250x250_c1/09db871baa5323e82e56fefa26e67c6d3767863f.webp" width="90"/> 
  <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(3441).png" width="90"/> 
  <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(320).gif" width="90"/> 
  <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(3415).png" width="90"/> 
